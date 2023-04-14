@@ -1,0 +1,11 @@
+-- Desafio Newsletter --
+
+Saque las imagenes del archivo de Photoshop que me enviaron el total de las mismas no
+supera los 500kb.
+
+Los valores rgb de los colores también los saque del archivo de Photoshop
+usando el color picker del gotero.
+
+Dividí el Desafio es 4 secciones y un footer, full responsive.
+
+Iván Gentta

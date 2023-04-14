@@ -10,7 +10,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   /* border: 5px solid black; */
 }
 
@@ -232,10 +231,6 @@ footer {
     font-size: 15px;
   }
 
-  .calendar {
-    width: 50px;
-  }
-
   .div-calendar div {
     font-size: 22px;
     height: 80px;
@@ -282,7 +277,6 @@ footer {
 
   .calendar {
     padding-top: 15px;
-    width: 50px;
   }
 
   /* THIRD SECTION */
